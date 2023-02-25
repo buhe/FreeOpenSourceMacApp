@@ -5,3 +5,4 @@
 * [Clash X](https://github.com/yichengchen/clashX)
 * [Bitwarden](https://bitwarden.com/download/)
 * [Sloth](https://github.com/sveinbjornt/Sloth)
+* [Un Archiver](https://apps.apple.com/us/app/the-unarchiver/id425424353?mt=12)
