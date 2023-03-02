@@ -6,3 +6,4 @@
 * [Bitwarden](https://bitwarden.com/download/)
 * [Sloth](https://github.com/sveinbjornt/Sloth)
 * [IINA](https://github.com/iina/iina)
+* [Cakebrew](https://github.com/brunophilipe/Cakebrew)
