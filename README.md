@@ -1,7 +1,7 @@
 ## Mac App
 * [Hidden Bar](https://github.com/dwarvesf/hidden)
 * [Monitor Control](https://github.com/MonitorControl/MonitorControl)
-* [Diffusion Bee](https://github.com/divamgupta/diffusionbee-stable-diffusion-ui)
+* [Mochi Diffusion](https://github.com/godly-devotion/MochiDiffusion)
 * [Clash X](https://github.com/yichengchen/clashX)
 * [Bitwarden](https://bitwarden.com/download/)
 * [Sloth](https://github.com/sveinbjornt/Sloth)
