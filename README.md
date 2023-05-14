@@ -8,3 +8,4 @@
 * [IINA](https://github.com/iina/iina)
 * [Cakebrew](https://github.com/brunophilipe/Cakebrew)
 * [GPT Client](https://github.com/buhe/OpenClient)
+* [AI Copilot For Xcode](https://github.com/intitni/CopilotForXcode)
