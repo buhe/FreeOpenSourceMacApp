@@ -10,3 +10,4 @@
 * [GPT Client](https://github.com/buhe/OpenClient)
 * [AI Copilot For Xcode](https://github.com/intitni/CopilotForXcode)
 * [eul: macOS status monitoring app](https://github.com/gao-sun/eul)
+* [Lemon](https://github.com/Tencent/lemon-cleaner)
