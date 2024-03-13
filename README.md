@@ -14,4 +14,4 @@
 * [Day Progress](https://apps.apple.com/us/app/day-progress/id6450280202?l=zh-Hans-CN&mt=12)
 * [Flomo](https://apps.apple.com/us/app/flomo-%E6%B5%AE%E5%A2%A8%E5%8D%A1%E7%89%87%E7%AC%94%E8%AE%B0-%E4%BE%BF%E7%AD%BE%E5%A4%87%E5%BF%98/id1665341561?l=zh-Hans-CN&mt=12)
 * [Vetero Weather](https://apps.apple.com/us/app/vetero-weather/id6449091332?l=zh-Hans-CN&mt=12)
-* [Vetero Weather](https://www.notion.so/desktop)
+* [Notion](https://www.notion.so/desktop)
