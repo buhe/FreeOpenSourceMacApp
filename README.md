@@ -18,4 +18,9 @@
 * [Ollama](https://github.com/ollama/ollama)
 * [AltTab For mac](https://github.com/lwouis/alt-tab-macos)
 * [Pap.er Wallpaper](https://apps.apple.com/us/app/pap-er-%E4%BC%98%E9%9B%85%E5%A3%81%E7%BA%B8/id1639052102?l=zh-Hans-CN&mt=12)
+
+## CLI
 * [Git GPT](https://github.com/buhe/git-gpt)
+* [Glow](https://github.com/charmbracelet/glow)
+* [Flomo-cli](https://github.com/buhe/flomo-cli)
+* [ChatGPT CLI](https://github.com/kardolus/chatgpt-cli)
