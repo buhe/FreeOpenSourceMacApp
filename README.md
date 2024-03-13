@@ -17,3 +17,4 @@
 * [Notion](https://www.notion.so/desktop)
 * [Ollama](https://github.com/ollama/ollama)
 * [Alt Tab for mac](https://github.com/lwouis/alt-tab-macos)
+* [pap.er](https://apps.apple.com/us/app/pap-er-%E4%BC%98%E9%9B%85%E5%A3%81%E7%BA%B8/id1639052102?l=zh-Hans-CN&mt=12)
